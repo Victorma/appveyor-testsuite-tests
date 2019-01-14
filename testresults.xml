@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<test-run id="2" testcasecount="3" result="Passed" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="56" engine-version="3.6.1.0" clr-version="4.0.30319.42000" start-time="2017-07-05 13:25:23Z" end-time="2017-07-05 13:25:25Z" duration="1.777915">
-  <command-line><![CDATA[nunit3-console.exe  nunit-v2-result-writer.tests.dll]]></command-line>
+<test-run id="2" testcasecount="3" result="Passed" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="56" engine-version="3.5.0.0" clr-version="2.0.50727.1433" start-time="2019-01-14 19:06:40Z" end-time="2019-01-14 19:06:54Z" duration="13.4258253">
   <test-suite type="Assembly" id="1005" name="uAdventureEditor.dll" fullname="C:/projects/uadventure/BuildProject/uAdventurePackage/uAdventurePackage/Assets/uAdventure/Editor/Plugins/uAdventureEditor.dll" runstate="Runnable" testcasecount="3" result="Passed" start-time="2019-01-14 19:06:40Z" end-time="2019-01-14 19:06:54Z" duration="13.350527" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="56">
-    <environment framework-version="3.5.0.0" clr-version="2.0.50727.8784" os-version="Microsoft Windows NT 10.0.15063.0" platform="Win32NT" cwd="C:\NUnit" machine-name="LLATINOV-JG0453" user="LLatinov" user-domain="JUSTGIVING01" culture="en-GB" uiculture="en-US" os-architecture="x64" />
-    <settings>
-      <setting name="DisposeRunners" value="True" />
-      <setting name="WorkDirectory" value="C:\NUnit" />
-      <setting name="ImageRuntimeVersion" value="2.0.50727" />
-      <setting name="ImageRequiresX86" value="False" />
-      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
-      <setting name="NumberOfTestWorkers" value="8" />
-    </settings>
     <properties>
       <property name="_PID" value="1896" />
       <property name="_APPDOMAIN" value="Unity Child Domain" />
