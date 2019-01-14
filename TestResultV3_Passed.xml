@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="2" result="Passed" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2" engine-version="3.6.1.0" clr-version="4.0.30319.42000" start-time="2017-07-05 13:25:23Z" end-time="2017-07-05 13:25:25Z" duration="1.777915">
+  <command-line><![CDATA[nunit3-console.exe  nunit-v2-result-writer.tests.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1003" name="nunit-v2-result-writer.tests.dll" fullname="C:\NUnit\nunit-v2-result-writer.tests.dll" runstate="Runnable" testcasecount="2" result="Passed" start-time="2017-07-05 13:25:25Z" end-time="2017-07-05 13:25:25Z" duration="0.092054" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2">
+    <environment framework-version="3.5.0.0" clr-version="2.0.50727.8784" os-version="Microsoft Windows NT 10.0.15063.0" platform="Win32NT" cwd="C:\NUnit" machine-name="LLATINOV-JG0453" user="LLatinov" user-domain="JUSTGIVING01" culture="en-GB" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\NUnit" />
+      <setting name="ImageRuntimeVersion" value="2.0.50727" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="7544" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1004" name="NUnit" fullname="NUnit" runstate="Runnable" testcasecount="2" result="Passed" start-time="2017-07-05 13:25:25Z" end-time="2017-07-05 13:25:25Z" duration="0.074733" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2">
+      <test-suite type="TestSuite" id="0-1005" name="Engine" fullname="NUnit.Engine" runstate="Runnable" testcasecount="2" result="Passed" start-time="2017-07-05 13:25:25Z" end-time="2017-07-05 13:25:25Z" duration="0.071241" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2">
+        <test-suite type="TestSuite" id="0-1006" name="Addins" fullname="NUnit.Engine.Addins" runstate="Runnable" testcasecount="2" result="Passed" start-time="2017-07-05 13:25:25Z" end-time="2017-07-05 13:25:25Z" duration="0.067291" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2">
+          <test-suite type="TestFixture" id="0-1000" name="NUnit2XmlResultWriterTests" fullname="NUnit.Engine.Addins.NUnit2XmlResultWriterTests" classname="NUnit.Engine.Addins.NUnit2XmlResultWriterTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2017-07-05 13:25:25Z" end-time="2017-07-05 13:25:25Z" duration="0.060689" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2">
+            <test-case id="0-1001" name="CheckExtensionAttribute" fullname="NUnit.Engine.Addins.NUnit2XmlResultWriterTests.CheckExtensionAttribute" methodname="CheckExtensionAttribute" classname="NUnit.Engine.Addins.NUnit2XmlResultWriterTests" runstate="Runnable" seed="2009537471" result="Passed" start-time="2017-07-05 13:25:25Z" end-time="2017-07-05 13:25:25Z" duration="0.018987" asserts="1" />
+            <test-case id="0-1002" name="CheckExtensionPropertyAttribute" fullname="NUnit.Engine.Addins.NUnit2XmlResultWriterTests.CheckExtensionPropertyAttribute" methodname="CheckExtensionPropertyAttribute" classname="NUnit.Engine.Addins.NUnit2XmlResultWriterTests" runstate="Runnable" seed="747975759" result="Passed" start-time="2017-07-05 13:25:25Z" end-time="2017-07-05 13:25:25Z" duration="0.019539" asserts="1" />
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
